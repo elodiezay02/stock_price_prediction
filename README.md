@@ -21,7 +21,7 @@ The workflow is to the following:
    ![image](https://github.com/elodiezay02/stock_price_prediction/assets/96581888/6adf3f59-2b15-4a07-85e8-9100e3c813f6)
 
 ## Limits
-Although we can better use the data, here are some scope limits that I haven't yet done (but I try to carry out as soon as possible)
+Although we can better take advantage of the data, here are some scope limits that I haven't yet done (but I try to carry out as soon as possible)
 1. Only Close price is used for the trainning and forecasting process
 2. The time interval is daily
 3. Models built are only on FPT stock

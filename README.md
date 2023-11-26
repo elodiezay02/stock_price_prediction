@@ -10,6 +10,15 @@ The workflow is to the following:
 4. Test the model with the validation set - this gives us a gauge of how good our model is
 5. Try different hyperparameter values such as look back window, n_epochs, hidden_units, hidden_layers
 
+## Results
+- [Left image] Training and validation loss are calculated by mean squared error (on min-max scaled data)
+- [Right image] Prediction is already inversely scaled
+1. RNN
+   
+   ![image](https://github.com/elodiezay02/stock_price_prediction/assets/96581888/f46a1ae1-2c92-4a68-b567-4dc6890aa90d)
+3. LSTM
+
+   ![image](https://github.com/elodiezay02/stock_price_prediction/assets/96581888/6adf3f59-2b15-4a07-85e8-9100e3c813f6)
 
 ## Limits
 Although we can better use the data, here are some scope limits that I haven't yet done (but I try to carry out as soon as possible)

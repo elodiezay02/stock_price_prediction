@@ -18,7 +18,7 @@ The workflow is to the following:
    ![image](https://github.com/elodiezay02/stock_price_prediction/assets/96581888/29425dca-8393-4308-bc07-df7af3719cfd)
 3. LSTM
 
-   ![image](https://github.com/elodiezay02/stock_price_prediction/assets/96581888/510b53ef-f2ba-42d1-9f50-6ffeae13150d)
+   ![image](https://github.com/elodiezay02/stock_price_prediction/assets/96581888/e9a66464-3e6a-432c-af08-c144f03e485d)
 
 ## Limits
 Although we can better take advantage of the data, here are some scope limits that I haven't yet done (but I try to carry out as soon as possible)
